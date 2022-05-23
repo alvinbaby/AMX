@@ -54,7 +54,7 @@ $ pip2 install pip
 $ pip2 install cpython
 $ pip2 install mechanize
 $ pip2 install requests
-$ git clone https://github.com/Aryan-mfc/MAX
+$ git clone https://github.com/alvinbaby/MAX
 $ cd MAX
 $ ls
 $ git pull
@@ -73,7 +73,7 @@ apk add python
 apk add py3-pip
 apk add python2
 gem install toilet
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/alvinbaby/MAX
 cd MAx
 git pull
 chmod +x *
@@ -88,7 +88,7 @@ python Max.py
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/alvinbaby/MAX
 cd MAX 
 pip2 install pip
 pip2 install requests
@@ -116,7 +116,7 @@ brew install git
 brew install python
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/Aryan-mfc/MAX
+git clone https://github.com/alvinbaby/MAX
 cd MAX
 git pull
 chmod +x *
